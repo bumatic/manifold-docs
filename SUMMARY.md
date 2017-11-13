@@ -10,7 +10,7 @@
   * [Configuration](contents/getting_started/configuration/README.md)
     * [Analytics](contents/getting_started/configuration/analytics.md)
     * [OAuth](contents/getting_started/configuration/oauth/README.md)
-  * [Getting Help](contents/developers/getting_help.md)
+  * [Getting Help](contents/getting_started/getting_help.md)
   * [Digital Services](contents/getting_started/digital-services.md)
 * [Presses](contents/presses/README.md)
   * [Project Types](contents/presses/project_types.md)
