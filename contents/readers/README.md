@@ -1,3 +1,3 @@
 # Readers
 
-TKTKTK
+Manifold books were made to be read and to fulfill specific functions for academic readers. This section of the documentation explains the [reading interface](reading_interface/README.md) options and available activities like [bookmarks](reading_interface/bookmarks.md), [annotation](reading_interface/annotation.md), and [citation](reading_interface/citation.md). This section also reviews Manifold [project pages](project_page.md), [resources](resources.md) and introduces how readers can organize their Manifold [project libraries](projects_library.md). 
