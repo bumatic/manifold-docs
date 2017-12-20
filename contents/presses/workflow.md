@@ -10,6 +10,13 @@ As with the Open-Access model, the production process for Enhanced projects rema
 ## Iterative
 The iterative process precedes and stands apart from the standard production workflow. After an agreement on the nature of the project and the kinds of materials it will comprise is brokered with the author, the author can begin supplying Texts and Resources.
 
+### Workflow Map
+Manifold editions are smoothly integrated into the existing production processes so publishers considering Manifold won't have to change their fundamental workflows to use it.
+
+![Manifold Workflow](/assets/workflow.jpg)
+
+In the figure above, white tiles denote existing production processes, green tiles describe actions that occur on the Manifold platform, and dotted arrows suggest optional paths to pursue.
+
 ### Publisher Responsibilities
 *   Collaborating with authors on how to structure materials for the platform
 *   Vetting and editing materials to house standards and expectations for “gray” publications.
@@ -26,18 +33,3 @@ The iterative process precedes and stands apart from the standard production wor
     *   Basic familiarity with HTML (and its structure)
     *   Understanding of how cascading style sheets (CSS) function
     *   Experience using content-management systems
-<!-- THIS IS GETTING MOVED TO A NEW DOCUMENT IN CONTENTS\PRESSES\THE_BACKEND\TEXTS
-
-## Text Ingestion
-Manifold can ingest Texts in various formats. The preferred method is by way of EPUB, but Markdown, HTML, and Google Documents are also viable means. The diagram shown here describe the various paths for getting your Texts into Manifold from your existing procedures.
-
-![Text paths into Manifold](/assets/text-paths.jpg)
-
-*Note*. If your Text is a Microsoft Word Document (or a series of them), you'll need to first transform them from Word to an accepted format, via one of the suggested paths here, before uploading them into the system.
-
-## Related Sections
-*   For a walkthrough describing the mechanics of how to begin a new project and load Texts, Resources, and related metadata onto Manifold, see the [Backend](backend.md) section.
-*   An outline and description of the different metadata fields available to Manifold are described in the [Metadata](metadata.md) section.
-*   See the [Resources](resources.md) section for details about the different kinds of Resources available on the system.
-
-END SECTION -->
