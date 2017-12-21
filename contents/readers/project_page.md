@@ -11,4 +11,8 @@ The Following page allows you to keep track of those books you choose from the P
 
 ## Adding Projects
 
+By clicking the "+" icon, you may add titles to your personal project library. If you select the "Following" option from the top menu, your projects will be displayed. If you hover your cursor over the select check mark, you will see you have the option to unfollow projects -- you will be asked to confirm before the action happens.
+
+On the main project menu, you will also notice that books you already follow have a different mark than those which you may add.
+
 
