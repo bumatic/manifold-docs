@@ -4,5 +4,5 @@ Manifold expands scholarly books in many ways. Importantly, Manifold makes avail
 
 Readers can find the resources from the [project page](project_page.md).
 
-When logged in, readers can also add notes to these collected resources (see [resource_notation](resources_notation.md).
+When logged in, readers can also write notes on these collected resources (see [resource_notations](resources_notations.md).
 
