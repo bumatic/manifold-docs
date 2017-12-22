@@ -28,4 +28,3 @@ By clicking the "+" icon, you may add titles to your personal project library. I
 
 On the main project menu, you will also notice that books you already follow have a different mark than those which you have added.
 
-
