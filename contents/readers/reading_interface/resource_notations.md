@@ -1,11 +1,15 @@
 # Reading Interface / Resource Notations
 
-Resource notations depend on the resource type. Text files may be notated as with the main manuscript (see [annotation](annotation.md)). Information regarding notation of non-text resources such as
+When Manifold projects contain resources beyond the manuscript, you may also take notes on individual resources. For each of the resource types,
 
-* Text and table supplements
-* Images
-* Visualizations
-* Videos
+* TEXT
+* IMAGE
+* FILE
 
-will be available soon.
+you can add comments in the comment box. These comments will remain within your account when you return to the text and reopen the resource. Each comment has options to "Reply," "Edit," "Delete," or "Flag."
+
+Resources may also be shared by clicking the Twitter widget, which will link back to the Manifold project.
+
+If available for redistribution, resources may be downloaded by clicking the download button in the right hand column, just below the image and above the metadata.
+
 
