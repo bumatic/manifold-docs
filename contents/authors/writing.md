@@ -3,7 +3,7 @@ This section describes the best practices for composing and formatting your manu
 
 Where appropriate in the sections that follow, there will be examples of the three file types that can be ingested directly into Manifold: Markdown, HTML, and Google Docs. Consideration will also be provided for Microsoft Word, though at present Word is not directly supported by the system (see note below). The final two sections, “Paths to Success” and “Things to Avoid” contain an array of quick tips for use throughout the writing process.
 
-*Note*. Word documents first need to be transformed to one of the three acceptable formats by way of an Export/Save As or through a tool such as PanDoc or Mammoth in order for them to be loaded into the platform's Reader.
+*Note*. Word documents first need to be transformed to one of the three acceptable formats by way of an Export/Save As or through a tool such as PanDoc or Mammoth in order for them to be loaded into the platform’s Reader.
 
 ## Core Tenets
 ### Characters, Paragraphs, and Wrapping
@@ -24,7 +24,7 @@ Rendering is an aspect of that general functionality, specifically one of appear
 
 When you structure a paragraph or characters in a word processing app—usually by way of “Style” pane or menu—the text element in question transforms into an different size or color and sometimes appears with a new spacing scheme. This new appearance is arbitrary and simply confirms to the writer that structure has been applied.
 
-As you are preparing your text documents for your publisher you only need to concern yourself with the structure of your document. How the document looks—how it's rendered—at this stage is only of use in discerning one element from another and does not reflect how the material will be rendered in later formats.
+As you are preparing your text documents for your publisher you only need to concern yourself with the structure of your document. How the document looks—how it’s rendered—at this stage is only of use in discerning one element from another and does not reflect how the material will be rendered in later formats.
 
 #### Microsoft Word
 For a description of how to apply styles (that impart structure) in Microsoft Word click [here](https://support.office.com/en-us/article/Apply-a-style-to-text-in-Word-F8B96097-4D25-4FAC-8200-6139C8093109).
@@ -32,13 +32,13 @@ For a description of how to apply styles (that impart structure) in Microsoft Wo
 #### Google Docs
 The process for applying structure to paragraphs in Google Documents is described here:
 *	Select the text you want to change.
-*	On the document's menu bar, click Format and then Paragraph styles.
+*	On the document’s menu bar, click Format and then Paragraph styles.
 *	Click a text style:
 	*	Normal text
 	*	Title
 	*	Subtitle
 	*	Heading 1-6
-*	Click Apply ‘text style.'
+*	Click `Apply text style`.
 
 *Note*. It is not possible to apply structure styles to characters in Google docs.
 
@@ -91,7 +91,7 @@ Here, since there is a Level 1 heading there has to be a second section with a L
 If nesting your headings by this logic is not feasible, consider abandoning headings in favor of spaced section breaks, made by leaving a blank line between one paragraph and the next, or through the use of sections announced by symbols, where an asterisk (usually centered) is left between one paragraph and the next.
 
 #### Block Quotes
-Block quotes (also called extracts) should be set off from body text in Word and Google Docs with blank lines above and below the quote and indented from the left using the app's Increase Indent feature. Do not structure block quotes with the style feature in either Word or Google Docs. If your block quote is made up of more than one paragraph, you can use the ruler to add a first line indents where appropriate.
+Block quotes (also called extracts) should be set off from body text in Word and Google Docs with blank lines above and below the quote and indented from the left using the app’s Increase Indent feature. Do not structure block quotes with the style feature in either Word or Google Docs. If your block quote is made up of more than one paragraph, you can use the ruler to add a first line indents where appropriate.
 
 In Markdown, begin paragraphs of the block quote using the `>` marker followed by a space:
 
@@ -128,7 +128,7 @@ Treat the following elements as if they were block quotes. Your publisher will a
 	*	Avoid the inclination to replicate the formatting of the source document; save for very specialized studies, the content is all that matters.
 
 #### Tables
-In Word and Google Docs, compose tables using the app's native table features.
+In Word and Google Docs, compose tables using the app’s native table features.
 
 In Markdown, create tables by separating cell content with a pipe (`|`). Headers should be set off by a row of at least three hyphens per column. Cells can vary in width and do not need to be perfectly aligned within columns.
 
@@ -224,17 +224,18 @@ Structure an opening list title as a Level 4 heading.
 If you would like two or more vertical lists to appear side by side, have the lists follow one after the other and make note in the file of how they should appear like this:
 
 ```
-<!-- PUBLISHER: If possible, these two lists should be set to appear side by side. -->
+<!-- PUBLISHER: These lists should appear side by side. -->
 ```
+
 ##### Consistency
 Consolidate various kinds of lists to one standard—all lists are numbered or all are bulleted. If your lists require separate treatment, please make that known like this:
 
 ```
-<!-- PUBLISHER: This list should appear with numbers; all others are okay without. -->
+<!-- PUBLISHER: This list should appear with numbers. -->
 ```
 
 #### Notes and Scholarly Apparatus
-In Word and Google Docs, notes—excepting those for tables—should be inserted using the app's Insert Footnote (or Endnote) feature. The resulting notes are considered "embedded" or "linked."
+In Word and Google Docs, notes—excepting those for tables—should be inserted using the app’s Insert Footnote (or Endnote) feature. The resulting notes are considered “embedded” or “linked.”
 
 If you are composing in Markdown, notes should be styled as follows:
 
@@ -263,13 +264,13 @@ For Word and Google Docs, use the Italics feature to transform characters and wo
 
 ```
 <em>emphasized terms</em>
-<i class="title">Titles of Works, Ships, Species, and Legal Cases</i>
+<i class="title">Titles of Works, Ships, Species, Legal Cases</i>
 <i class="term">Species names and foreign terms</i>
 <cite>Titles of Works in Notes and References</cite>
 ```
 
 #### Hyperlinks and URLs
-For text that should appear as clickable, live networked hyperlinks, please use your program's Insert Hyperlink feature. If you are composing in Markdown or HTML, please style as `[text link](http://www.text-link-url.edu)` or `<a href="http://www.text-link-url.edu">text link</a>` respectively.
+For text that should appear as clickable, live networked hyperlinks, please use your program’s Insert Hyperlink feature. If you are composing in Markdown or HTML, please style as `[text link](http://www.text-link-url.edu)` or `<a href="http://www.text-link-url.edu">text link</a>` respectively.
 
 #### Super- and Subscript
 Use the super- or subscript feature in Word and Google Docs to style text above or below the standard character line. In Markdown and HTML use the `<sup>` and `<sub>` tags for super- and subscript, respectively.
@@ -278,7 +279,7 @@ Use the super- or subscript feature in Word and Google Docs to style text above 
 Avoid using bold, strikethrough, highlighting, and colored text. If you feel any of these treatments are necessary for your work, please consult with your publisher.
 
 #### Special Characters
-Special characters that can't easily be found in your operating system's character map should be inserted using Unicode. For more information on available Unicode characters and how best to insert them for your system, please consult [FileFormat.Info](http://www.fileformat.info/index.htm). Mac and Windows operating systems have different means of inserting Unicode characters. Consult your publisher if you need assistance.
+Special characters that can’t easily be found in your operating system’s character map should be inserted using Unicode. For more information on available Unicode characters and how best to insert them for your system, please consult [FileFormat.Info](http://www.fileformat.info/index.htm). Mac and Windows operating systems have different means of inserting Unicode characters. Consult your publisher if you need assistance.
 
 If your text requires combining diacritic marks or a specific font not native to your operating system, please consult your editor on how best to proceed. Solutions are specific to each project.
 
@@ -287,10 +288,10 @@ If your material requires right-to-left text to appear inline with left-to-right
 
 ## Paths to Success
 *	**Simple**. Word processors like Microsoft Word and Google Docs are powerful apps that grant the user a host of tools to create rich documents. Often those tools are not interoperable with the transformations your publisher will need to perform on your files. Where possible, limit yourself to the following:
-	*	*Document Styles*. Use custom or the default set of Styles (e.g. Title, Heading 1) to describe an element's structure.
-	*	*Embedded Notes*. When annotating material in your document, use your program's built-in Notes tool instead of attempting to do so manually.
+	*	*Document Styles*. Use custom or the default set of Styles (e.g. Title, Heading 1) to describe an element’s structure.
+	*	*Embedded Notes*. When annotating material in your document, use your program’s built-in Notes tool instead of attempting to do so manually.
 		*	**Caution**. (1) Do *not* use *both* endnotes and footnotes; instead choose the one the suits the bulk of your material best. Consult your publisher if you expect this to be a problem. (2) Avoid using the built-in Notes tool when annotating tables; tables should be manually annotated.
-	*	*Tables*. Craft tables using your program's built in tool for that purpose. These should appear inline with your other text versus being saved apart in a separate table file or series of table files. Use tables sparingly; oftentimes data that is grouped into a table is equally, if not better, expressed through standard prose.
+	*	*Tables*. Craft tables using your program’s built in tool for that purpose. These should appear inline with your other text versus being saved apart in a separate table file or series of table files. Use tables sparingly; oftentimes data that is grouped into a table is equally, if not better, expressed through standard prose.
 	*	*Lists*. Avoid trying to render lists in your manuscript as you want them to appear when published; instead provide instructions to your publisher in the file.
 *	**Consistent**. Be mindful of making sure all like elements are treated the same way throughout. This applies to choices of structure (e.g., heading titles or spaced paragraphs, having epigraphs after no headings or all of them), language (length of heading titles, whether headings are numbered, capitalization decisions, if certain terms are italicized or placed in quotations), annotation style, everything.
 *	**Predictable**. Review the structure of your material at large, making sure material is grouped similarly throughout and that headings appear on expected levels and are properly nested.
@@ -307,4 +308,4 @@ If your material requires right-to-left text to appear inline with left-to-right
 *	Using built-in hyphenation or justification tools
 *	Manually inserting hyphens at the ends of lines
 *	Adding pagination
-*	Replicating a source document's formatting
+*	Replicating a source document’s formatting
