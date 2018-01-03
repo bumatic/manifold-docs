@@ -6,10 +6,7 @@ These instructions document the process for acquiring OAuth keys from Google. It
 
 ### Requirements
 
-Before adding OAuth support for Google to Manifold, you will need a Google developer account and a Manifold Google project.
-
-* If you do not have a developer account you can create one at through the [Google Developer Console](https://console.developers.google.com/).
-* If you do not have a Manifold Google project you can create one by logging into your developer account and clicking "Create Project".
+Before adding OAuth support for Google to Manifold, you will need to [configure Google Services for Manifold](/contents/configuration/google_services/README.md).
 
 ### Callback URL
 
