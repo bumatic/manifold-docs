@@ -28,7 +28,7 @@ You can export citations in any number of formats (e.g. MLA, Chicago, APA, etc.)
 
 ### [Resource Notation](resource_notations.md)
 
-Resources are not necessarily straight text a You access resources from each project home page. Since these can be any number of things (not always text), notation works differently.
+Resources come in a number of file types. These files may be commented on individually. You access resources from each project home page. Since these can be any number of things (not always text), notation acts as a public comment on the resource.
 
 ### [Highlighting](annotation.md)
 
