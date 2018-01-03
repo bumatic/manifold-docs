@@ -3,17 +3,16 @@ Manifold Scholarship is an open-source publishing platform that enables authors 
 
 This documentation will serve as a guide to help surface and navigate those concerns with the aim of publishing materials openly, iteratively, and elsewise on Manifold. Brief by design and written for publishers, authors, readers and developers to be of immediate, practical use, these instructions function as a walk-through of the Manifold format.
 
-If you find yourself unclear about the process, what is expected of you, or if you have questions that extend beyond the scope of what is covered herein, please contact your editor or the Manifold team for assistance specific to your situation. For additional information on how to obtain support, please consult the [getting help](/contents/getting_started/getting_help.md) documentation page.
+If you find yourself unclear about the process, what is expected of you, or if you have questions that extend beyond the scope of what is covered herein, please contact your editor or the Manifold team for assistance specific to your situation. For additional information on how to obtain support, please consult the [support](/contents/reference/support.md) documentation page.
 
 ## Getting Started
-If you are interested in hosting your own instance of Manifold, begin with the [Getting Started](/contents/getting_started/README.md) page below, where you'll find instructions on how to install Manifold. If you would prefer not to manage your own instance of Manifold, [the University of Minnesota Press](https://www.upress.umn.edu/) offers [digital services](/contents/tmp/installation/digital-services.md) covering project preparation, hosting, customization and support in partnership with [Cast Iron Coding](http://castironcoding.com). We recommend reading the terminology page first, so we can be sure we're all speaking the same language.
+If you are interested in hosting your own instance of Manifold, begin with the [Getting Started](/contents/getting_started/README.md) page below, where you'll find instructions on how to install Manifold. If you would prefer not to manage your own instance of Manifold, [the University of Minnesota Press](https://www.upress.umn.edu/) offers [digital services](http://manifoldapp.org/services) covering project preparation, hosting, customization and support in partnership with [Cast Iron Coding](http://castironcoding.com). The best place to begin is on the getting started page:
 
-* [Terminology](contents/reference/terminology.md)
 * [Getting Started](contents/getting_started/README.md)
 
 Once Manifold has been installed and configured, documentation is broken into parts that correspond to the main user roles:
 
-* [Press Documentation](contents/presses/README.md)
+* [Publisher Documentation](contents/publishers/README.md)
 * [Author Documentation](contents/authors/README.md)
 * [Reader Documentation](contents/readers/README.md)
 * [Developer Documentation](contents/developers/README.md)
