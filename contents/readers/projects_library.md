@@ -1,6 +1,6 @@
 # Projects Library
 
-The Projects Library is divided into three main categories: "[Featured Projects](#featuredprojects)," "[Our Projects](#ourprojects)," and "[Following](#following)."
+The Projects Library is divided into three main categories: "[Featured Projects][featuredprojects]," "[Our Projects](#ourprojects)," and "[Following](#following)."
 
 # Featured Projects
 
