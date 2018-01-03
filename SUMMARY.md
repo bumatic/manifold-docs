@@ -35,6 +35,5 @@
   * [Command Line Interface](contents/developers/command_line_interface.md)
   * [API](contents/developers/api.md)
 * [Reference](contents/reference/README.md)
-  * [User Accounts](contents/reference/user_accounts.md)
   * [Metadata](contents/reference/metadata.md)
   * [Glossary](contents/reference/glossary.md)
