@@ -1,4 +1,4 @@
-# Reading Interface / Annotation
+# Annotation
 
 When logged into Manifold, you have a number of note-taking options. First, use your cursor to highlight the text you wish you to annotate. A menu will appear asking if you wish to share, annotate, or highlight.
 
