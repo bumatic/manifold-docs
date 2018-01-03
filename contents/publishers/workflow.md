@@ -41,4 +41,4 @@ In the figure above, white tiles denote existing production processes, green til
 *   Staff skills that will be useful:
     *   Basic familiarity with HTML (and its structure)
     *   Understanding of how cascading style sheets (CSS) function
-    *   Experience using content-management systems
+    *   Experience using content management systems (CMS)
