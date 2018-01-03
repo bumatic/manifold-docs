@@ -1,8 +1,9 @@
 # Projects Library
 
-The Projects Library is divided into three main categories: "[Featured Projects][featuredprojects]," "[Our Projects](#ourprojects)," and "[Following](#following)."
+The Projects Library is divided into three main categories: "[Featured Projects](#featuredprojects)," "[Our Projects](#ourprojects)," and "[Following](#following)."
 
-[featuredprojects]# Featured Projects
+[featuredprojects]
+# Featured Projects
 
 When you log in to Manifold, you will arrive at the main Projects page. The first category of projects you will see are the "Featured Projects," titles suggested by the press to give you a curated sample of what's new and available.
 
