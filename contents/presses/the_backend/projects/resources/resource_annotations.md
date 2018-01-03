@@ -1,3 +1,0 @@
-# Projects / Resource Annotations
-
-TKTKTK

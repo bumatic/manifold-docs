@@ -1,3 +1,0 @@
-# People / Makers
-
-TKTKTK
