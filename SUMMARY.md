@@ -1,7 +1,6 @@
   # Summary
 
 * [Introduction](README.md)
-* [About](contents/reference/about.md)
 * [Getting Started](contents/getting_started/README.md)
   * [Install Manifold](contents/getting_started/install.md)
   * [Accessing the Backend](contents/getting_started/access_backend.md)
