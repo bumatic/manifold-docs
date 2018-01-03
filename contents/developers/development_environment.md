@@ -14,6 +14,17 @@ Manifold is still in beta, and the installation story is evolving. These instruc
 
 ## Installation Process
 
+#### 1. Create a Manifold user
+
+We'll make a Manifold user and grant it sudo privileges.
+
+    adduser manifold
+    usermod -aG sudo manifold
+    
+Either shell in as that user or, if you're already logged in as root, switch to it:
+
+    su - manifold
+
 #### 1. Install dependencies
 
 Most dependencies can be installed with Ubuntu packages.
@@ -42,8 +53,7 @@ Start Elasticsearch on boot, and right now
 
 #### 2. Setup Postgres; create a "manifold" user
 
-The name of the user postgres user should match the name of the OS user. When prompted  
-whether the postgres user should be a super user, say yes.
+The name of the user postgres user should match the name of the OS user. When prompted  whether the postgres user should be a super user, say yes. Be sure to save the password that you assign to the user.
 
 	sudo -u postgres createuser --interactive
 	sudo -u postgres psql
@@ -52,8 +62,7 @@ whether the postgres user should be a super user, say yes.
 
 #### 3. Add ./bin to your user's $PATH
 
-There are a few executable files in /bin, api/bin that make this process easier. Adding  
-./bin to your OS user's path simplifies the following commands.
+There are a few executable files in Manifold's `bin` directory that make the setup process easier. Adding `./bin` to your OS user's path simplifies the following commands.
 
 	echo 'export PATH="./bin:$PATH"' >> ~/.bash_profile
 
@@ -131,9 +140,9 @@ Set the following environment variables in `~/manifold/.env`
 	RAILS_DB_USER=manifold
 	RAILS_DB_NAME=manifold
 	RAILS_SECRET_KEY=a-long-secure-key-generated-by-rails
-	CLIENT_URL=http://you.public.ip:3010
-	API_URL=http://you.public.ip:3013
-	CABLE_URL=ws://you.public.ip:3014
+	CLIENT_URL=http://your.public.ip:3010
+	API_URL=http://your.public.ip:3013
+	CABLE_URL=ws://your.public.ip:3014
 
 #### 12. Setup the API database
 
