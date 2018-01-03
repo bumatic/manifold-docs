@@ -15,13 +15,13 @@ Endnotes within the text are linked so that you may go from text to notes and ba
 
 When logged into Manifold, you have a number of note-taking options within a text. When you use your cursor to select the text you wish you to engage with, a menu will appear asking if you wish to [Share](#share), [Annotate](#annotate), or [Highlight](#highlight) the selected passage:
 
-<a name="share" />
+<a name="share"></a>
 ### Share
 Selecting Share opens two further options: Cite and Twitter. The Cite option will allow you to copy and cite the text formatted according to either Chicago, MLA, or APA style. If certain metadata is missing from a Text, the Cite option will not appear.
 
 Selecting Twitter opens another tab in your browser window directed to Twitter. If you are already logged in to Twitter, it will automatically populate your tweet with an image and links back to the point you highlighted in the text. Otherwise Manifold will fill the tweet template and offer an option to sign in or sign up on Twitter.
 
-<a name="annotation" />
+<a name="annotation"></a>
 ### Annotate
 With Annotate, you can write notes which Manifold will save for you. You may choose to make your annotations private by selecting the tick box below the field where you type in your notes. If you leave your annotation publicly it can be commented on by other readers who are logged in.
 
@@ -31,7 +31,7 @@ Commenting is a related but distinct functionality from annotations that describ
 
 Comments can also be applied to project resources. See the [resource section](resources.md) for more information.
 
-<a name="highlight" />
+<a name="highlight"></a>
 ### Highlight
 Highlighting provides you a means to set off specific passages of text visually.
 
