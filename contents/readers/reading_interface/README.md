@@ -13,13 +13,16 @@ You may also return to Project Home, Projects overview, or Following by the top 
 
 Endnotes within the text are linked so that you may go from text to notes and back without scrolling.
 
-Within the text, you may use your cursor to [share](share.md), [annotate](annotation.md), or highlight(highlight.md). A menu appears when you click over the text.
+Within the text, you may use your cursor to [share](annotation.md), [annotate](annotation.md), or [highlight](annotation.md). A menu appears when you click over the text.
 
 ### [Annotation](annotation.md)
 When you highlight text, you are given the option to annotate that portion of the text, either for your own private review or as an element of public discourse. Your annotations are available when you are logged in.
 
-### [Citation](citation.md)
+### [Citation](annotation.md)
 You can export citations in three different styles (i.e., Chicago, MLA, and APA). Whether you are quoting a passage or referencing the whole text, you can retrieve citation information by highlighting and choosing "Share" in the hover menu. The citation option allows you to choose your format and copy the text to your clipboard.
+
+### [Highlight](annotation.md)
+Highlighting provides you a means to set off specific passages of text visually.
 
 ### [Comments](comments.md)
 Unlike Annotations, Comments are strictly public and refer to responses to public Annotations.
