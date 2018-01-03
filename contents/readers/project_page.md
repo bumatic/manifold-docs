@@ -6,7 +6,7 @@ When you log into your Manifold account, you will see two main display options i
 
 ## Projects
 
-Each project has its own home page. At the top of the page, you will find author photos, a book abstract, a "[Start Reading](reading-interface.md)" button, a "[View Contents](reading_interface.md)" button, Twitter and Facebook widgets, as well as the project hashtag, and a link to purchase the print version. This page displays the cover of the book, which you will also see on the [Projects Library](projects_library.md) page.
+Each project has its own home page. At the top of the page, you will find author photos, a book abstract, a "[Start Reading](reading-interface.md)" button, a "[View Contents](reading-interface.md)" button, Twitter and Facebook widgets, as well as the project hashtag, and a link to purchase the print version. This page displays the cover of the book, which you will also see on the [Projects Library](projects_library.md) page.
 
 Further down the Project home page, you will see a feed of "Recent Activity." Because Manifold is iterative, and authors may add resources and texts, the feed provides information about when things are added.
 
