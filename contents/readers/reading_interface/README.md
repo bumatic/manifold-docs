@@ -16,7 +16,7 @@ You may also return to Project Home, Projects overview, or Following by the top 
 
 Footnotes within the text are linked so that you may go from text to notes and back without scrolling.
 
-Within the text, you may use your cursor to [share](share.md), [annotate](annotation.md), or highlight(highlight.md). A menu appears when you click over the text. 
+Within the text, you may use your cursor to [share](share.md), [annotate](annotation.md), or [highlight](highlight.md). A menu appears when you click over the text. 
 
 ### [Annotation](annotation.md)
 
@@ -31,5 +31,9 @@ You can export citations in any number of formats (e.g. MLA, Chicago, APA, etc.)
 ### [Resource Notation](resource_notations.md)
 
 Resources are not necessarily straight text a You access resources from each project home page. Since these can be any number of things (not always text), notation works differently.
+
+### [Highlighting](highlight.md)
+
+You can highlight as you read. The Project Page summary will indicate how many highlights you have stored in your account.
 
 ### [Comments](comments.md)
