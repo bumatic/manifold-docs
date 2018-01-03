@@ -22,8 +22,6 @@ Within the text, you may use your cursor to [share](share.md), [annotate](annota
 
 When you highlight text, you are given the option to annotate. Your comments are available when you are logged in. 
 
-### [Bookmarks](bookmarks.md)
-
 ### [Citation](citation.md)
 
 You can export citations in any number of formats (e.g. MLA, Chicago, APA, etc.). Whether you are quoting a passage or referencing the whole text, you can retrieve citation information by highlighting and choosing "Share" in the hover menu. The citation option allows you to choose your format and copy the text to your clipboard.
@@ -37,3 +35,5 @@ Resources are not necessarily straight text a You access resources from each pro
 You can highlight as you read. The Project Page summary will indicate how many highlights you have stored in your account.
 
 ### [Comments](comments.md)
+
+Users can reply to other users' comments on resources and on public annotations.
