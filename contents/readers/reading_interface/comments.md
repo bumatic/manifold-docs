@@ -1,3 +1,4 @@
-# Reading Interface / Comments
+# Comments
 
-Comments can be made on project resources. See [resource notations](resource_notations.md) for more information.
+Users can reply to other users' comments on resources and on public annotations.
+See [resource notations](resource_notations.md) for more information.
