@@ -28,7 +28,6 @@
     * [Annotation](contents/readers/reading_interface/annotation.md)
     * [Citation](contents/readers/reading_interface/citation.md)
     * [Comments](contents/readers/reading_interface/comments.md)
-    * [Bookmarks](contents/readers/reading_interface/bookmarks.md)
     * [Resource Notations](contents/readers/reading_interface/resource_notations.md)
 * [Developers](contents/developers/README.md)
   * [Development Environment](contents/developers/development_environment.md)
