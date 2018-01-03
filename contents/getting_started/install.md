@@ -4,7 +4,7 @@ The following instructions have only been tested on Ubuntu 16 hosts. Your mileag
 
 ## Installation Prerequisites
 
-1. Manifold should be installed on a virtual of physical server with at least 1 CPU and 4 GB of RAM<sup>[1](#note-1)</sup>. We've had good luck installing Manifold on [Google Cloud Compute instances](https://cloud.google.com/compute/docs/instances/), [AWS EC2 instances](https://aws.amazon.com/ec2/instance-types/), and [Digital Ocean droplets](https://www.digitalocean.com/).
+1. Manifold should be installed on a virtual or physical server with at least 1 CPU and 4 GB of RAM<sup>[1](#note-1)</sup>. We've had good luck installing Manifold on [Google Cloud Compute instances](https://cloud.google.com/compute/docs/instances/), [AWS EC2 instances](https://aws.amazon.com/ec2/instance-types/), and [Digital Ocean droplets](https://www.digitalocean.com/).
 
 2. You will need to have root access to the server and the ability to shell into the server.
 
