@@ -1,5 +1,5 @@
 # Metadata
-Below is a comprehensive list of all metadata fields available to Resources on the Manifold platform. All fields are editable by those with Author or Editor roles except those designated `AR`, which are locked to those with [Administrative Rights](glossary.md).
+Below is a comprehensive list of all metadata fields available to Resources on the Manifold platform. As of v0.3.0 these fields are only available to Admin users. In the Manifold 1.0.0, all fields will be editable by those with Author or Editor roles except those designated `AR`, which are locked to those with [Administrative Rights](glossary.md).
 
 ## File
 
