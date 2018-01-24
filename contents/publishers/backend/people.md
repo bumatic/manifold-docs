@@ -87,19 +87,19 @@ This section describes how to modify User accounts and assumes you are in the Us
 
 #### Changing a User's Password
 
-To change a User's password, click `Reset Password` below the user's name. A prompt will come up asking if you want to Generate a New Password or Set a New Password. If you click `Generate New Password` the system will automatically create a new password and email it to the address on file. If you click `Generate New Password` you can manually input a new password and save it to the system.
+To change a User's password, click `Reset Password` below the user's name. A prompt will come up asking if you want to Generate a New Password or Set a New Password. If you click `Generate New Password` the system will automatically create a new password and email it to the address on file. If you click `Set New Password` you can manually input a new password and save it to the system.
 
 #### Deleting a User
 
-To delete a User account, click the `Delete User` button beside the red trashcan icon under the User's name.  You will receive a warning asking you to confirm you want to delete this particular Maker. Deleting a User permanently removes them from the system along with any highlights, annotations, or comments they have made.
+To delete a User account, click the `Delete User` button beside the red trashcan icon under the User's name.  You will receive a warning asking you to confirm you want to delete this particular User. Deleting a User permanently removes them from the system along with any highlights, annotations, or comments they have made.
 
 #### Adjusting a User's Email
 
-Under the `EMAIL` heading in the drawer you can directly modify a User's email address. Click `Save Maker` near the bottom of the drawer to push your changes into the system.
+Under the `EMAIL` heading in the drawer you can directly modify a User's email address. Click `Save User` near the bottom of the drawer to push your changes into the system.
 
 #### Adjusting a User's Name
 
-Under the `First Name` and `Last Name` headers in the drawer you can directly modify a Users's First and Last names. Click `Save Maker` near the bottom of the drawer to push your changes into the system.
+Under the `First Name` and `Last Name` headers in the drawer you can directly modify a Users's First and Last names. Click `Save User` near the bottom of the drawer to push your changes into the system.
 
 *Note*. Middle names or initials and suffixes aren't yet supported.
 
