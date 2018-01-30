@@ -1,5 +1,25 @@
 # Downloads
 
+## [Manifold v0.4.0 - Debian](https://storage.googleapis.com/manifold-packages/ubuntu/manifold_0.3.5-1_amd64.deb)
+
+| Property              | Value                                                             |
+|:----------------------|:------------------------------------------------------------------|
+| **md5**               | `d0b624bfbb1a68eaa3b44754d3350b08`                                |
+| **sha1**              | `741c612f3be2af226e285766fa9cc4007ac14aca`                        |
+| **sha256**            | `4b64e24c21dd6a615e39938babdf6afe956613c412f5b50b117b9ed9b0c75d5b`|
+| **platform**          | ubuntu                                                            |
+| **platform version**  | 16.04    
+
+## [Manifold v0.3.5 - Debian](https://storage.googleapis.com/manifold-packages/ubuntu/manifold_0.3.5-1_amd64.deb)
+
+| Property              | Value                                                             |
+|:----------------------|:------------------------------------------------------------------|
+| **md5**               | `fed45089b93489a134dd0d62f8c47e4a`                                |
+| **sha1**              | `2eac029ef740363846dccf8623d38c6fefd6575e`                        |
+| **sha256**            | `52cacfcc17db839db75b4fd871d6d4fe8cb3ae8b4fe58f0423317543282e1905`|
+| **platform**          | ubuntu                                                            |
+| **platform version**  | 16.04     
+
 ## [Manifold v0.3.4 - Debian](https://storage.googleapis.com/manifold-packages/ubuntu/manifold_0.3.4-1_amd64.deb)
 
 | Property              | Value                                                             |
