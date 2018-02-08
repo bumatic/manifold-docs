@@ -18,13 +18,13 @@ Shell into the server as root and download the most recent package.
 
 ```
 cd ~
-curl -O https://storage.googleapis.com/manifold-packages/ubuntu/manifold_0.3.3_ubuntu16_amd64.deb
+curl -O https://storage.googleapis.com/manifold-packages/ubuntu/manifold_0.4.0-1_amd64.deb
 ```
 
 #### 2. Install the package
 
 ```
-dpkg -i manifold_0.3.3_ubuntu16_amd64.deb
+dpkg -i manifold_0.4.0-1_amd64.deb
 ```
 
 #### 3. Apply Minimal Configuration

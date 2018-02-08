@@ -1,3 +1,0 @@
-# Projects / People
-
-TKTKTK
