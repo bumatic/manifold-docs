@@ -1,41 +1,25 @@
 # Project Proposals
 
-This section describes the proposal requirements for projects that are utilizing [Manifold's Iterative conception](/contents/reference/glossary.md). Projects following the Open-Access or Enhanced paths will track with the publisher's standard production process.
+This section includes considerations for projects utilizing [Manifold's Iterative conception](project_types.md). Projects following the Open-Access or Enhanced paths will, by and large, track with the publisher's standard production process, though likely exceptions will be noted here.
 
-Iterative projects will enjoy two distinct workflows—- (1) the iterative, elemental stage, and (2) the publisher's standard production process—- one at each end of the same spectrum. The iterative phase aligns with a project's developmental stage, which normally occurs beyond the view of the reader or publisher, and the standard phase aligns with the processes the publisher currently employs in the creation of final, polished electronic or print works. There are no expectations that early iterations be polished. While some editorial discretion will be employed, this part of the project is experimental and contextual: it revels in the messiness and potential of creation.
+Iterative projects will enjoy two distinct workflows in the iterative and dissemination phases, respectively: The iterative phase aligns with a project's development, which normally occurs beyond the view of the reader or publisher, and the dissemination phase aligns with the processes the publisher currently employs in the publication of final print or electronic works—the versions or record. See the [workflow map](workflow.md) for a visual outline. Because the dissemination phase is a known quantity the workflow of the iterative phase will take the focus here:
 
-Iterative projects under consideration will benefit from the same levels of editorial development and evaluation as the publisher's established publishing program, but each publisher will adapt their methods to the iterative elements in their own ways. Below, though, are considerations most publishers will be interested in learning from authors' proposals.
+## Iterative Phase Considerations
 
-## Considerations for authors
+There are no expectations that early iterations or draft materials be polished. While some editorial discretion is suggested during this phase, especially as regard the kinds and amounts of materials to be included, this time in the project's life is experimental, reveling in the messiness and potential of creation. Work with authors to firm up a sense of timeline and how often materials should be expected. Now is also the time to ensure all parties have a good sense of expectations for the rights required to post materials, in keeping with the publisher's standards, as well as the nature and quantity of metadata both parties hope to provide (see the [text](/backend/projects/texts/metadata.md) and [resource](backend/projects/resources/metadata.md) metadata sections for more).
 
-*   What makes the project particularly suitable for Manifold?
-*   What aspects of an online platform (networked material, online communities, digital archives, etc.) would the project take advantage of?
-*   Of the materials that have informed your writing, which do you want to provide to your audience? What is relevant to to the foundation of the study? To furthering it? Rough out and describe an inventory of what you have or would like to secure.
-*   Consider how you want to showcase your textual materials. What would be better showcased in the Reader and which would work better as Resources, which can either stand on their own as downloadable documents or as a means to contextualize your main argument in the Reader?
-*   Do you envision all of the them being on a path oriented toward the VOR, or are some purely exploratory or conceptual?
-*   What kind of schedule makes the most sense for your project—a slow drip of new materials as you work toward the VOR or a focused deposit that coincides with the VOR?
-*   Manifold has the ability to transform monographs into evolving works of scholarship. What level of engagement is envisioned, both before and after the publication of the monograph? This might include the uploading of works in progress, curation of additional archival or research materials, the development of public scholarship, dialogues with reader communities, etc.
-*   What subvention sources, if any, might be available to support the open-access edition?
+The general expectation is that as a project evolves through various iterations it will naturally reach a point when it is ready for a publisher's standard peer-review and production processes. Discuss with your author what the project will look like when it is ready to make that jump. It is worth noting that Iterative projects at that stage will benefit from the same levels of editorial development and evaluation as the publisher's established publishing program.
 
-#### Notes
+## Context
 
-*   Manifold is not designed to allow for minor or continual revision of Texts (i.e., “versioning”). While the platform is capable of supplanting one Text for another and maintaining fidelity with existing annotations, such adjustments are not to be done lightly; Texts are meant to illustrate distinct stages of development.
-*   Manifold is not a custom solution for each new project; while it has a very robust set of capabilities, there are limitations, resulting from both decisions made about the system's underlying architecture as well as from each publisher's editorial viewpoint. Publishers and authors should be sure to discuss expectations early to ensure everyone is on the same page.
+Manifold is not designed to allow for minor or continual revision of texts (i.e., “versioning”). While the platform is capable of supplanting one text for another and maintaining fidelity with existing annotations and the placement of resources through "reingestion," such adjustments are not to be done lightly, with texts meant to illustrate distinct stages of development.
 
-<!--Abandoned -->
-*   Do authors and coauthors have access to materials—- such as additional text, images, audio and video—- that will supplement or contextualize the main text in meaningful ways?
-
-<!-- /Abandoned -->
+It is also important to recognize that Manifold is not a custom solution for each new project. While Manifold has a very robust set of capabilities, there are limitations, resulting from both decisions made about the system's underlying architecture as well as from each publisher's editorial viewpoint. Publishers and authors should be sure to discuss expectations early to ensure everyone is on the same page.
 
 ## Responsibilities
 
-*   securing and authoring materials (including metadata)
-*   clearing rights for already existing materials (when necessary)
-*   submitting materials according to publisher expectations
-*   Placing and curating Resources through system interfaces
+The [author proposal form](/authors/project_proposals.md) provides authors a list of items to respond to. As part of that discussion it will also be useful to make sure it is clear to all parties who will be responsible for the following:
 
-_Note_. Compare these responsibilities with those of the publisher's, as found in the [Editorial and Production Workflow](/contents/presses/editorial_and_production_workflow.md) section.
-
-## Next Steps
-
-*   Have authors ready materials for Manifold with information speaking to both the [structure](/contents/authors/writing_for_the_web.md) and [technical specifications](/contents/presses/the_backend/projects/resources/README.md) for materials, along with considerations for [reproducing materials from other sources](rights.md).
+*   securing resources and authoring associated metadata
+*   clearing rights for materials in copyright
+*   placing and curating resources through system interfaces
