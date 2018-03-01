@@ -18,41 +18,24 @@
 [Setting up email services](contents/publishers/backend/settings/email.md)
  * Setting up Manifold project classifications
 * [Working with Projects](contents/projects.md)
- * Creating Projects
- * Creating a New Project
-* Ingesting Texts
-* Types of ingestion
-* [Texts](contents/publishers/backend/projects/texts.md)
-        * [Texts](contents/publishers/backend/projects/texts/README.md)
-        * [Ingestion](contents/publishers/backend/projects/texts/ingestion.md)
-ePub
-callout/Sidebar: read this article showing our tips for ingesting ePubs
-Google docs
-Markdown
-HTML
-Reingestion
-Grouping texts
-Publishing draft texts
-Setting the published version
-Customizing Projects 
-General
-    * [Settings](contents/publishers/backend/settings/README.md)
-        * [General](contents/publishers/backend/settings/general.md)
-        * [Theme](contents/publishers/backend/settings/theme.md)
-        * [Integrations](contents/publishers/backend/settings/integrations.md)
-        * [Subjects](contents/publishers/backend/settings/subjects.md)
-
-* Appearance
- * [People](contents/publishers/backend/people/README.md)  
-   * [Makers](contents/publishers/backend/makers.md)
-   * [Users](contents/publishers/backend/users.md)
-Texts
-Resources
-Collections
-Activity
-Editing activity items
-Metadata
-Social
+ * [Creating a New Project](contents/projects/README.md)
+ * [Ingesting Texts](contents/projects/texts/README.md)
+    * [Types of ingestion](contents/projects/texts/types.md)
+    * [Reingestion](contents/projects/texts/reingestion.md)
+    * [Grouping texts](contents/projects/texts/grouping.md)
+    * [Publishing draft texts](contents/projects/texts/drafts.md)
+    * [Setting the published version](contents/projects/texts/version.md)
+ * [Customizing Projects](contents/projects/customizing.md)
+    * [General](contents/projects/customizing.md)
+    * [Appearance](contents/projects/customizing.md)
+    * [People](contents/projects/people.md)  
+    * [Texts]
+    * [Resources]
+    * [Collections]
+    * [Activity]
+     * [Editing activity items]
+    * [Metadata]
+    * [Social]
 * [Writing for Manifold](contents/writing/README.md)
   * Formats and File Types
   * [Project Proposals](contents/writing/project_proposals.md)
@@ -66,12 +49,6 @@ Social
     * [People](contents/people/README.md)
         * [Makers](contents/makers.md)
         * [Users](contents/users.md)
-    * [Settings](contents/publishers/backend/settings/README.md)
-        * [General](contents/publishers/backend/settings/general.md)
-        * [Theme](contents/publishers/backend/settings/theme.md)
-        * [Integrations](contents/publishers/backend/settings/integrations.md)
-        * [Subjects](contents/publishers/backend/settings/subjects.md)
-        * [Email](contents/publishers/backend/settings/email.md)
 * Example presses
 * [Reading Manifold texts](contents/reading/README.md)
   * [Projects Library](contents/reading/projects_library.md)
