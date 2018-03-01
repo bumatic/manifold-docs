@@ -10,12 +10,19 @@ If you are interested in hosting your own instance of Manifold, begin with the [
 
 * [Getting Started](contents/getting_started/README.md)
 
-Once Manifold has been installed and configured, documentation is broken into parts that correspond to the main user roles:
+Once Manifold has been installed and configured, documentation is broken into parts that reflect operations of Manifold:
 
-* [Publisher Documentation](contents/publishers/README.md)
-* [Author Documentation](contents/authors/README.md)
-* [Reader Documentation](contents/readers/README.md)
-* [Developer Documentation](contents/developers/README.md)
+* [Customizing Manifold](contents/customizing/README.md)
+* [Working with Projects](contents/projects/README.md)
+* [Writing for Manifold](contents/writing/README.md)
+* [Integrating Manifold into Publishing Workflows](contents/publishing/README.md)
+* [Reading Manifold Texts](contents/reading/README.md)
+* [Developing for Manifold](contents/developing/README.md)
+* [References](contents/reference/README.md)
+
+## Support
+
+## Reporting and issue
 
 ## Short History
 
