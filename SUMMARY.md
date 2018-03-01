@@ -2,19 +2,19 @@
  * Using Manifold documentation
  * [Getting support: where and how](contents/support.md)
  * [Reporting an issue](contents/issues.md)
-* [Installing Manifold](contents/install.md)
- * [Getting Started](contents/getting_started/README.md)
- * [Installing on Docker](contents/getting_started/README.md)
- * [Installing on OSX](contents/getting_started/README.md)
+* [Installing Manifold](contents/installing/install.md)
+ * [Getting Started](contents/installing/getting_started/README.md)
+ * [Installing on Docker](contents/installing/docker.md)
+ * [Installing on OSX](contents/installing/osx.md)
 * [Customizing Manifold](contents/customizing.md)
- * Customizing the homepage
- * Global Settings
+ * [Customizing the homepage](contents/customizing/homepage.md)
+ * [Global Settings](contents/customizing/global.md)
    * General
    * Theme
    * Integrations
-* [Configuring Manifold](contents/configuration/README.md)
-  * [OAuth](contents/configuration/oauth/README.md)
-  * [Google Services](contents/configuration/google_services/README.md)
+* [Configuring Manifold](contents/configuring/README.md)
+  * [OAuth](contents/configuring/oauth/README.md)
+  * [Google Services](contents/configuring/google_services/README.md)
 [Setting up email services](contents/publishers/backend/settings/email.md)
  * Setting up Manifold project classifications
 * [Working with Projects](contents/projects.md)
@@ -75,19 +75,19 @@ Social
 * Example presses
 * [Reading Manifold texts](contents/reading/README.md)
   * [Projects Library](contents/reading/projects_library.md)
+    * Citing Projects Library
   * [Project Page](contents/reading/project_page.md)
   * [Reading Interface](contents/reading/reading-interface.md)
-  * [Resources](contents/reading/resources.md)
-  * Favoriting texts
-  * Highlighting texts
-  * Commenting
-  * My Notes
-  * Citing Projects Library
-* [Developing for Manifold](contents/developers/README.md)
-  * [Development Environment](contents/developers/development_environment.md)
-  * [Architecture](contents/developers/architecture.md)
-  * [Directory Structure](contents/developers/directory_structure.md)
-  * [Command Line Interface](contents/developers/command_line_interface.md)
+    * Favoriting texts
+    * Highlighting texts
+    * Commenting
+    * My Notes
+    * [Resources](contents/reading/resources.md)
+* [Developing for Manifold](contents/developing/README.md)
+  * [Development Environment](contents/developing/development_environment.md)
+  * [Architecture](contents/developing/architecture.md)
+  * [Directory Structure](contents/developing/directory_structure.md)
+  * [Command Line Interface](contents/developing/command_line_interface.md)
 * [Reference](contents/reference/README.md)
   * [Metadata](contents/reference/metadata.md)
   * [Glossary](contents/reference/glossary.md)
