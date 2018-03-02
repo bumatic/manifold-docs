@@ -6,6 +6,6 @@
 
 ## Integrations
 
-## Setting up email services
+## Setting up Email Services
 
-## Setting up Manifold project classifications
+## Setting up Manifold Project Classifications
