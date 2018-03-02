@@ -1,8 +1,10 @@
-# Getting Started
+# Installing Manifold
+
+## Getting Started
 
 Welcome! We're glad you've decided to try out Manifold. In this quick tutorial, you will:
 
-1. [Install Manifold on an Ubuntu host](install.md)
+1. Install Manifold on an [Ubuntu](install_ubuntu.md), [OS10](install_os10.md), or [Docker](install_docker.md) host
 2. [Create an admin user and login to the backend](access_backend.md)
 3. [Create your first project and upload a text](first_project.md)
 
@@ -22,5 +24,4 @@ Manifold is composed of a handful of services, with two services, the client and
 
 ### If You Get Stuck
 
-Manifold, which is still in beta, is a relatively young piece of software. The more people who install it and experiment with it, the more feedback we'll get, which helps us improve Manifold. If you get stuck, don't hesitate to ask us for help. For more information on how to get in touch with the Manifold team, please consult the [support documentation page](/contents/reference/support.md).
-
+Manifold, which is still in beta, is a relatively young piece of software. The more people who install it and experiment with it, the more feedback we'll get, which helps us improve Manifold. If you get stuck, don't hesitate to ask us for help. For more information on how to get in touch with the Manifold team, please consult the [getting support section](README.md#getting_support).

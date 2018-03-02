@@ -1,17 +1,16 @@
-# Manifold Scholarship
+# Manifold Scholarship Documentation Overview
+
 Manifold Scholarship is an open-source publishing platform that enables authors and publishers a means to showcase and enhance the electronic content they already produce in their existing workflows: texts are displayed in a responsive, elegant reader crafted for all modern browsers and devices—desktop and mobile. Powerful built-in annotation and commenting systems allow readers to annotate, highlight, discuss, cite, and share passages from any Manifold text. Resources that are foundational to a particular discussion but that are often tabled because of physical, technical, logistic, or legal limitations can be layered dynamically and directly onto the digital text. And with Manifold, a new kind of publication is possible, one where authors create projects that grow iteratively and that are published online as they are created and then later in print, when they have been codified as versions of record. In short, Manifold transforms scholarly publications into living digital works.
 
 This documentation will serve as a guide to different users aiming to publish materials openly, iteratively, and elsewise on Manifold. Brief by design and written for publishers, authors, readers and developers to be of immediate, practical use, these instructions function as a walk-through of the Manifold format.
 
-If you find yourself unclear about the process, what is expected of you, or if you have questions that extend beyond the scope of what is covered herein, please contact your editor or the Manifold team for assistance specific to your situation. For additional information on how to obtain support, please consult the [support](/contents/reference/support.md) documentation page.
+If you find yourself unclear about the process, what is expected of you, or if you have questions that extend beyond the scope of what is covered herein, please contact your publisher or the Manifold team for assistance specific to your situation. Contact information is found below in the `Getting Support` section.
 
-## Getting Started
-If you are interested in hosting your own instance of Manifold, begin with the [Getting Started](/contents/getting_started/README.md) page below, where you'll find instructions for how to install Manifold. If you would prefer not to manage your own instance of Manifold, [the University of Minnesota Press](https://www.upress.umn.edu/) offers [digital services](http://manifoldapp.org/services) covering project preparation, hosting, customization and support in partnership with [Cast Iron Coding](http://castironcoding.com). The best place to begin is on the getting started page:
+## Using the Manifold Documentation
 
-* [Getting Started](contents/getting_started/README.md)
+If you are interested in hosting your own instance of Manifold, begin with the [Getting Started](/contents/getting_started/README.md) section, where you'll find instructions for how to install Manifold. If you would prefer not to manage your own instance of Manifold, [the University of Minnesota Press](https://www.upress.umn.edu/) offers [digital services](http://manifoldapp.org/services) covering project preparation, hosting, customization and support in partnership with [Cast Iron Coding](http://castironcoding.com). Once Manifold has been installed and configured, documentation is broken into parts that reflect operations of Manifold:
 
-Once Manifold has been installed and configured, documentation is broken into parts that reflect operations of Manifold:
-
+* [Installing Manifold](contents/installing/README.md)
 * [Customizing Manifold](contents/customizing/README.md)
 * [Working with Projects](contents/projects/README.md)
 * [Writing for Manifold](contents/writing/README.md)
@@ -20,9 +19,10 @@ Once Manifold has been installed and configured, documentation is broken into pa
 * [Developing for Manifold](contents/developing/README.md)
 * [References](contents/reference/README.md)
 
-## Support
+<a name="getting_support"></a>
+## Getting Support: Where and How
 
-## Reporting and issue
+## Reporting an Issue
 
 ## Short History
 
