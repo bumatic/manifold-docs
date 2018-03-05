@@ -4,14 +4,14 @@ Configure this feature to enable analytics reporting to your Google account, and
 
 Before using this feature, you must [configure Google services](README.md).
 
-### Enable analytics
+### Enable Analytics
 
 1. Go to the APIs overview by clicking on the "API" card on your project dashboard.
 2. Click on the "Library" tab in the sidebar.
 3. Click on "Analytics API" under the "Other" header. (You may need to search for "Analytics API" if you don't see it.
 4. Click "Enable".
 
-### Configure analytics
+### Configure Analytics
 
 1. Log into your property at [Google Analytics](https://analytics.google.com).
 2. Create a new property for your Manifold installation. If you need help, instructions can be found at [Analytics Help](https://support.google.com/analytics/answer/1008015?hl=en).
@@ -21,7 +21,7 @@ Before using this feature, you must [configure Google services](README.md).
 
 ![Analytics Permissions](/assets/analytics-permissions.png)
 
-### Get Tracking ID and profile ID
+### Get Tracking ID and Profile ID
 
 1. Click on "Property Settings" under your property's name.
 2. Make note of the Tracking Id including the "UA-" prefix.

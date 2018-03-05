@@ -1,3 +1,3 @@
-# Settings / Theme
+# Theme
 
 TKTKTK
