@@ -47,7 +47,7 @@
   * [Metadata]()
   * [Social]()
 * [Writing for Manifold](contents/writing/README.md)
-  * [Formats and File Types]()
+  * [Text Formats and File Prep](contents/writing/file_prep.md)
   * [Project Proposals](contents/writing/project_proposals.md)
   * [Copyright and Permissions](contents/writing/rights.md)
   * [Writing for the Web](contents/writing/writing.md)
