@@ -28,7 +28,9 @@
  * [Customizing Projects](contents/projects/customizing.md)
     * [General](contents/projects/customizing.md)
     * [Appearance](contents/projects/customizing.md)
-    * [People](contents/projects/people.md)  
+    * [People](contents/projects/people/README.md)  
+      * [Users](contents/projects/people/users.md)
+      * [Makers](contents/projects/people/makers.md)
     * [Texts]
     * [Resources]
     * [Collections]
