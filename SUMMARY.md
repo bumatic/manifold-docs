@@ -35,17 +35,18 @@
     * [Grouping texts](contents/projects/texts/grouping.md)
     * [Publishing draft texts](contents/projects/texts/drafts.md)
     * [Setting the published version](contents/projects/texts/version.md)
-* [Customizing Projects](contents/projects/customizing.md)
-  * [General](contents/projects/customizing.md)
-  * [Appearance](contents/projects/customizing.md)
-  * [People](contents/projects/people.md)
-  * [Texts]()
-  * [Resources]()
-  * [Collections]()
-  * [Activity]()
-    * [Editing Activity Items]()
-  * [Metadata]()
-  * [Social]()
+  * [Customizing Projects](contents/projects/customizing.md)
+    * [General](contents/projects/texts/customizing.md)
+    * [Appearance](contents/projects/customizing.md)
+  * [People](contents/projects/people/README.md)  
+      * [Users](contents/projects/people/users.md)
+      * [Makers](contents/projects/people/makers.md)
+  * [Resources]
+    * [Collections]
+    * [Activity]
+     * [Editing activity items]
+  * [Metadata]
+    * [Social]
 * [Writing for Manifold](contents/writing/README.md)
   * [Text Formats and File Prep](contents/writing/file_prep.md)
   * [Project Proposals](contents/writing/project_proposals.md)
