@@ -17,26 +17,26 @@
   * [Google Services](contents/configuring/google_services/README.md)
 [Setting up email services](contents/publishers/backend/settings/email.md)
  * Setting up Manifold project classifications
-* [Working with Projects](contents/projects.md)
+* [Working with Projects](contents/projects/README.md)
  * [Creating a New Project](contents/projects/README.md)
- * [Ingesting Texts](contents/projects/texts/README.md)
-    * [Types of ingestion](contents/projects/texts/types.md)
+  * [Texts](contents/projects/texts/README.md)
+    * [Ingesting Texts](contents/projects/texts/README.md)
+    * [Text types](contents/projects/texts/types.md)
     * [Reingestion](contents/projects/texts/reingestion.md)
     * [Grouping texts](contents/projects/texts/grouping.md)
     * [Publishing draft texts](contents/projects/texts/drafts.md)
     * [Setting the published version](contents/projects/texts/version.md)
- * [Customizing Projects](contents/projects/customizing.md)
-    * [General](contents/projects/customizing.md)
+  * [Customizing Projects](contents/projects/customizing.md)
+    * [General](contents/projects/texts/customizing.md)
     * [Appearance](contents/projects/customizing.md)
-    * [People](contents/projects/people/README.md)  
+  * [People](contents/projects/people/README.md)  
       * [Users](contents/projects/people/users.md)
       * [Makers](contents/projects/people/makers.md)
-    * [Texts]
-    * [Resources]
+  * [Resources]
     * [Collections]
     * [Activity]
      * [Editing activity items]
-    * [Metadata]
+  * [Metadata]
     * [Social]
 * [Writing for Manifold](contents/writing/README.md)
   * Formats and File Types
